@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Embedded-Linux-Single-Board-Computers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Embedded-Linux-Single-Board-Computers?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Embedded-Linux-Single-Board-Computers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Embedded-Linux-Single-Board-Computers?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Embedded-Linux-Single-Board-Computers/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Embedded-Linux-Single-Board-Computers?style=social" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
@@ -74,9 +74,9 @@ The global Embedded Linux and Single-Board Computer (SBC) ecosystem represents a
 
 ## 💻 Open-Source GitHub Projects & Build Systems
 
-*Sorted descending by GitHub star count. Star badges link directly to each project's stargazers page.*
+*Sorted descending by GitHub Stars_Count. Stars_Badges link directly to each project's stargazers page.*
 
-| 📦 Project | ⭐ Stars | 🎯 Category / Scope | 📖 Description |
+| 📦 Project | ⭐ GitHub_Stars | 🎯 Category / Scope | 📖 Description |
 | :--- | :---: | :--- | :--- |
 | **[OpenWrt](https://github.com/openwrt/openwrt)** | [![Stars](https://img.shields.io/github/stars/openwrt/openwrt?style=social&color=white)](https://github.com/openwrt/openwrt/stargazers) | 🌐 Linux Router / Gateway OS | Extensible Linux distribution targeting embedded network devices and single-board computers with an efficient package manager (`opkg`) and web interface. |
 | **[Raspberry Pi Linux Kernel](https://github.com/raspberrypi/linux)** | [![Stars](https://img.shields.io/github/stars/raspberrypi/linux?style=social&color=white)](https://github.com/raspberrypi/linux/stargazers) | 🐧 Kernel Source / Drivers | The official Linux kernel source tree maintained by the Raspberry Pi Foundation, supporting all Raspberry Pi SBC models, Broadcom SoCs, and Device Trees. |
@@ -106,7 +106,7 @@ We welcome additions, corrections, and improvements from the embedded systems, s
 1. 🍴 **Fork the repository** to your GitHub account.
 2. 📝 **Add or update an entry** adhering to these criteria:
    - **SaaS Products**: Add to the SaaS table with exact starting pricing tier, specific free tier limits (or trial terms), and parent company valuation/revenue scale.
-   - **Open-Source Projects**: Must be an actively maintained, publicly accessible repository with an embedded Linux or SBC focus. Include the `shields.io` star badge pointing directly to the `/stargazers` URL and maintain descending star order.
+   - **Open-Source Projects**: Must be an actively maintained, publicly accessible repository with an embedded Linux or SBC focus. Include the `shields.io` Stars_Badge pointing directly to the `/stargazers` URL and maintain descending star order.
 3. 💾 **Commit your changes**:
    ```bash
    git checkout -b add-entry-name
